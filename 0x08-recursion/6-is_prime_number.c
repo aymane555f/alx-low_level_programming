@@ -1,4 +1,4 @@
-i#include "main.h"
+#include "main.h"
 
 /**
  * check_if_div - Checks if number can be divided
